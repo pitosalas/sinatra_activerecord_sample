@@ -7,5 +7,5 @@ require_relative 'models/registration'
 require_relative 'models/hiring'
 
 get '/' do
-  'Hello world!'
+  '<h1>Hello world!</h1>'
 end
