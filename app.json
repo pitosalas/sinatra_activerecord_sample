@@ -1,6 +1,6 @@
 {
     "environments": {
-      "test": {
+      "staging": {
         "scripts": {
           "test-setup": "gem install rubocop",
           "test": "rubocop ."
